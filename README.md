@@ -4,6 +4,8 @@ This repository contains data and Python scripts for a manuscript titled: "Tree 
 
 This repository includes two folders that contain data and scripts for extracting topographic variance measurements from individual hillslopes and for parameterizing natural pit-mound couplets. 
 
+Topographic data is available at opentopography.org. At the moment, we are working with opentopography to upload drone-collected lidar. It will have a DOI shortly. 
+
 Topographic Variance folder contains:
   1. a shapefile of hillslope locations, average slope, topographic variance, and standard deviation of slope
   2. hVa.py: a Python script that takes a DEM tile as an input and creates a high pass filter of topography, displays the topography and a satelite image so that the user may select hillslopes by clicking. Hillslopes measures are saved in a python dictionary. 
