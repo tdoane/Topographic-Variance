@@ -3,8 +3,8 @@
 This repository contains data and Python scripts for a manuscript titled: "Tree throw, topographic variance, and mapping process contributions from topography" which is currently under review for publication with Geophysical Research Letters. A preprint is available at:
 
 This repository includes two folders that contain data and scripts for extracting topographic variance measurements from individual hillslopes and for parameterizing natural pit-mound couplets. 
-
-Topographic data is available at opentopography.org. At the moment, we are working with opentopography to upload drone-collected lidar. It will have a DOI shortly. 
+ 
+TOPOGRAPHIC DATA IS AVAILABLE AT OPENTOPOGRAPHY.ORG. AT THE MOMENT, WE ARE WORKING WITH OPENTOPOGRAPHY TO UPLOAD DRONE-COLLECTED LIDAR. IT WILL HAVE A DOI SHORTLY.
 
 Topographic Variance folder contains:
   1. a shapefile of hillslope locations, average slope, topographic variance, and standard deviation of slope
