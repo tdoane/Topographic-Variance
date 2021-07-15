@@ -4,7 +4,7 @@ This repository contains data and Python scripts for a manuscript titled: "Tree 
 
 This repository includes two folders that contain data and scripts for extracting topographic variance measurements from individual hillslopes and for parameterizing natural pit-mound couplets. 
  
-TOPOGRAPHIC DATA IS AVAILABLE AT OPENTOPOGRAPHY.ORG. AT THE MOMENT, WE ARE WORKING WITH OPENTOPOGRAPHY TO UPLOAD DRONE-COLLECTED LIDAR. IT WILL HAVE A DOI SHORTLY.
+Topographic data for is available at OpenTopography. Brown County: https://portal.opentopography.org/usgsDataset?dsid=IN_Statewide_Opt1_B4_2017  Washington County (pit-mound parameterization): doi.org/10.5069/G98C9TFC
 
 Topographic Variance folder contains:
   1. a shapefile of hillslope locations, average slope, topographic variance, and standard deviation of slope
